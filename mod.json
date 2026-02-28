@@ -1,14 +1,14 @@
 {
-	"geode": "4.0.1",
+	"geode": "5.2.0",
 	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
 	},
 	"id": "jojo989.geometwy_dash",
 	"name": "geometwy dash",
-	"version": "v1.0.21",
+	"version": "v1.0.22",
 	"developer": "jojo989",
 	"description": "makes your game very uwu!!",
 	"repository": "https://github.com/jojo989/geometwy-dash",
