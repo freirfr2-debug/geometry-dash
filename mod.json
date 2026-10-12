@@ -6,12 +6,12 @@
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "jojo989.geometwy_dash",
-	"name": "geometwy dash",
-	"version": "v1.0.22",
-	"developer": "jojo989",
-	"description": "makes your game very uwu!!",
-	"repository": "https://github.com/jojo989/geometwy-dash",
+	"id": "mega_php_core.geometry_dash",
+	"name": "geometry dash",
+	"version": "v0.0",
+	"developer": "Mega's PHP Core",
+	"description": "Geometry Dash 2.206 NCS Noclip",
+	"repository": "https://github.com/MegaSa1nt/GMDprivateServer",
 	"tags": ["joke"],
 	
 	"settings": {
